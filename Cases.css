@@ -1,0 +1,25 @@
+/* Effects for Body */
+body {  
+    background-image: url(B.jpg);  /* given the Bgimage*/
+    background-size: cover;        /* given the size for the Bgimage */
+    background-repeat: no-repeat;  
+    display: flex;
+    justify-content: Center;       
+    align-items: center;
+    height: 550px;                 /* Height of the page */
+    width: 400px;                  /* width of the page */
+   
+} 
+
+    /* Effects for the list of Cases */
+  
+  p  {    /* given the size, weight and padding */
+      font-size: 14Px;         
+      font-weight: bold;
+      padding:0px;
+  }
+  
+  /* Heading  */
+  img {
+    width: 60px;
+  }
